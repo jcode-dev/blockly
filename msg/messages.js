@@ -51,7 +51,7 @@ goog.require('Blockly.Msg');
 /// {{Notranslate}} Hue value for all logic blocks.
 Blockly.Msg.LOGIC_HUE = '210';
 /// {{Notranslate}} Hue value for all loop blocks.
-Blockly.Msg.LOOPS_HUE = '120';
+Blockly.Msg.LOOPS_HUE = '322';// '120';
 /// {{Notranslate}} Hue value for all math blocks.
 Blockly.Msg.MATH_HUE = '230';
 /// {{Notranslate}} Hue value for all text blocks.
